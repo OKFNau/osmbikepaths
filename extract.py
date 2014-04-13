@@ -6,7 +6,7 @@ from subprocess import call
 conn = connect(dbname='gis')
 cur=conn.cursor()
 
-cur.execute("SELECT distinct osm_id,route_name from planet_osm_line where route_name like '%Rail Trail' and network='rcn';")
+cur.execute("SELECT distinct osm_id,route_name from planet_osm_line where route_name is not null and network='rcn';")
 
 for record in cur:
   print "%s" % record[1]

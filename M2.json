@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "route_name": "M2", "osm_id": -2306257, "state": null }, "geometry": { "type": "LineString", "coordinates": [ [ 151.057243526450549, -33.940087130077679 ], [ 151.057225470313341, -33.940001477408529 ] ] } }
+
+]
+}

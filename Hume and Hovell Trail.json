@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "route_name": "Hume and Hovell Trail", "osm_id": -2221844, "state": null }, "geometry": { "type": "LineString", "coordinates": [ [ 145.4160146138409, -37.399131825873603 ], [ 145.416015961313803, -37.399098572333934 ] ] } }
+,
+{ "type": "Feature", "properties": { "route_name": "Hume and Hovell Trail", "osm_id": -2221844, "state": null }, "geometry": { "type": "LineString", "coordinates": [ [ 145.51995121934948, -37.350421809738698 ], [ 145.519828778976262, -37.350476527535896 ] ] } }
+,
+{ "type": "Feature", "properties": { "route_name": "Hume and Hovell Trail", "osm_id": -2221844, "state": null }, "geometry": { "type": "LineString", "coordinates": [ [ 146.632737570753505, -36.587565156175955 ], [ 146.633702361368648, -36.58738549828935 ], [ 146.63412906112859, -36.587309360888383 ] ] } }
+
+]
+}
