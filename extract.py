@@ -10,4 +10,4 @@ cur.execute("SELECT distinct osm_id,route_name from planet_osm_line where route_
 
 for record in cur:
   print "%s" % record[1]
-  call (["ogr2ogr", "-f", "GeoJSON", record[1] + ".json",  'PG:dbname=\'gis\'', "-sql", 'SELECT * from planet_osm_line where osm_id=%d' % record[0]])
+  call (["ogr2ogr", "-f", "GeoJSON", record[1] + ".json",  'PG:dbname=\'gis\'', "-sql", 'SELECT route_name,osm_id,tags::hstore->\'state\' as state,way from planet_osm_line where osm_id=%d' % record[0], "-t_srs", "EPSG: 4326"])
