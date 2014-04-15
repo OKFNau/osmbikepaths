@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "route_name": "Castle Hill Off Road", "osm_id": -3078550, "state": null }, "geometry": { "type": "LineString", "coordinates": [ [ 150.979252152809408, -33.702846269707642 ], [ 150.979239935721523, -33.703180251882259 ], [ 150.979236432291913, -33.703299824508932 ] ] } }
+
+]
+}

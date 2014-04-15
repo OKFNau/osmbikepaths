@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "route_name": "Coburg Shimmy", "osm_id": -2978478, "state": null }, "geometry": { "type": "LineString", "coordinates": [ [ 144.957119952753487, -37.74038905393391 ], [ 144.956738168757738, -37.740351758934004 ], [ 144.956611506302664, -37.740343944741163 ] ] } }
+
+]
+}

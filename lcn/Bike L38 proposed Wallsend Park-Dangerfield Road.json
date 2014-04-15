@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "route_name": "Bike L38 proposed Wallsend Park-Dangerfield Road", "osm_id": -3520554, "state": null }, "geometry": { "type": "LineString", "coordinates": [ [ 151.668326001902471, -32.907170258169728 ], [ 151.668249914597908, -32.907183079267703 ], [ 151.667233740348507, -32.907355485145914 ], [ 151.66689911790516, -32.90743286405295 ], [ 151.666557758097213, -32.907484374535457 ], [ 151.666379352681787, -32.907505566980042 ] ] } }
+
+]
+}

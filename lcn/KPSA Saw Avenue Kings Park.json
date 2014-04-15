@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "route_name": "KPSA Saw Avenue Kings Park", "osm_id": -2831183, "state": null }, "geometry": { "type": "LineString", "coordinates": [ [ 115.824667613185682, -31.961869754914272 ], [ 115.824534033702946, -31.961448676461988 ], [ 115.82413140879261, -31.959539128136175 ] ] } }
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "route_name": "L12 Proposed", "osm_id": -3502069, "state": "proposed" }, "geometry": { "type": "LineString", "coordinates": [ [ 151.718850038258722, -32.882104178253357 ], [ 151.71753328771527, -32.883840252130305 ], [ 151.716675037292816, -32.886596792674617 ], [ 151.715574870564353, -32.885912059743696 ] ] } }
+
+]
+}

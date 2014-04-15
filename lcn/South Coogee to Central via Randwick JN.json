@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "route_name": "South Coogee to Central via Randwick JN", "osm_id": -2214928, "state": null }, "geometry": { "type": "LineString", "coordinates": [ [ 151.216462005386234, -33.893817452886736 ], [ 151.216731949129127, -33.893852722918204 ] ] } }
+
+]
+}
